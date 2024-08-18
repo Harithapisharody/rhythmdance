@@ -14,11 +14,13 @@ section {
 .callnow {
     position: fixed;
     bottom: 100px;
-    right: 30px;
+    right: 20px;
+    font-size: 30px;
 }
 
 .whatsapp {
     position: fixed;
+    font-size: 30px;
     bottom: 40px;
-    right: 30px;
+    right: 20px;
 }
